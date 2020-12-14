@@ -2,7 +2,7 @@
 > Quoated Text
 
 ### syntax
-  ```
+  ```markdown
   > quoted text
   ```
 ### result
@@ -13,7 +13,7 @@
 > lists
 
 ### syntax
-  ```
+  ```markdown
   1. Ordered list item 1
   1. Ordered list item 2
       - unordered list item3
@@ -30,7 +30,7 @@
 
 >  Test Highligts
 ### syntax
-  ```
+  ```markdown
   - **Bold Text**
   - __Bold Text__
   - ~~strikethrough~~
@@ -42,7 +42,7 @@
 
 > **Horizontal line**
 ## Syntax
-  ```
+  ```markdown
   --- Horizontal line
   ```
 
@@ -54,7 +54,7 @@
 > **Headers**
 
 ### Syntax
-  ```
+  ```markdown
   # Header 1
   ## Header 2
   ### Header 3
@@ -73,4 +73,4 @@
   
   ---
 
----
+> ---
